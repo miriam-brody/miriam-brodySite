@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Miriam Brody"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Human-Computer Interaction Researcher and Incoming Ph.D. Student"
   location         : # "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Washington Paul G. Allen School of Computer Science & Engineering"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mabrody@uw.edu" 
 
   # Academic websites
   academia         : # URL
