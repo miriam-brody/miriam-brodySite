@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Miriam Brody"
   pronouns         : # example: "she/her"  
-  bio              : "Human-Computer Interaction Researcher and Incoming Ph.D. Student"
+  bio              : "Human-Computer Interaction Researcher and Incoming Ph.D. Student at the University of Washington Paul G. Allen School of Computer Science & Engineering"
   location         : # "Earth"
-  employer         : "University of Washington Paul G. Allen School of Computer Science & Engineering"
+  employer         : # "University of Washington Paul G. Allen School of Computer Science & Engineering"
   uri              : # URL
   email            : "mabrody@uw.edu" 
 
